@@ -1,0 +1,10 @@
+html,body{
+    background: rgba(199,237,204,0.8) !important;
+}
+
+.github-test-wind{
+    position: absolute;
+    width: 100px;
+    left: 0;
+    top: 50px;
+}
